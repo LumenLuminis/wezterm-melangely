@@ -10,6 +10,11 @@ split = "#C1A78E"
 compose_cursor = "#FFBF00"
 visual_bell = "#8B7449"
 
+# added from the "melange-dark" Theme from the original Melange nvim theme
+cursor_fg     = "#292522"
+selection_bg  = "#403A36"
+selection_fg  = "#ECE1D7"
+
 ansi = [
 	'#292522',
 	'#BD8183',
