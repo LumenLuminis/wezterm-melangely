@@ -1,4 +1,4 @@
-# Melangely-Faithful-Wezterm
+# A "Melangely" Theme for WezTerm
 ![screenshot](screenshot.png)
 
 A faithful interpretation of the Melange Color Scheme for Wezterm. Since it changes default Shell colors, implicitly also themes zsh / tmux etc.
