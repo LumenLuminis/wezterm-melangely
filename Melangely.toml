@@ -17,24 +17,24 @@ selection_fg  = "#ECE1D7"
 
 ansi = [
 	'#292522',
- 	'#7D2A2F',
-	'#78997A',
-	'#E49B5D',
-	'#7F91B2',
-	'#B380B0',
-	'#7B9695',
+ 	'#9a252d',
+	'#4a795a',
+	'#aa812a',
+	'#686d8f',
+	'#8f5f84',
+	'#4e7679',
 	'#ECE1D7',
 ]
 
 brights = [
-	'#403A36',
+	'#867462',
 	'#D47766',
 	'#85B695',
 	'#EBC06D',
 	'#A3A9CE',
 	'#CF9BC2',
 	'#89B3B6',
-	'#FFFFFF',
+	'#fff6ee',
 ]
 
 
@@ -42,7 +42,7 @@ brights = [
 
 [colors.tab_bar]
 background = '#867462'
-[colors.tab_bar.active_tab]
+[colors.tab_bar.inactive_tab]
 bg_color = '#403A36'
 fg_color = "#ECE1D7"
 # For reference/customization, copied from Bamboo. Options apply to active_tab, inactive_tab, inactive_tab_hover, new_tab, new_tab_hover
@@ -51,7 +51,7 @@ fg_color = "#ECE1D7"
 # italic = false
 # strikethrough = false
 # underline = "None"
-[colors.tab_bar.inactive_tab]
+[colors.tab_bar.active_tab]
 bg_color = '#292522'
 fg_color = "#ECE1D7"
 [colors.tab_bar.new_tab]
